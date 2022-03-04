@@ -1,0 +1,22 @@
+Package: CRinMFC
+Type: Package
+Title: Calcualtion of the indices to detect careless responding in multidimensional forced-choice data
+Version: 0.1.0
+Author: c(person(given = "Rebekka",
+           family = "Kupffer",
+           role = c("aut","cre"),
+           email = "kupffer@uni-landau.de",
+           comment = c(ORCID = "0000–0002–9961–9860")),
+          person(given = "Susanne",
+           family = "Frick",
+           role = c("cre"),
+           email = "frick@statistik.tu-dortmund.de",
+           comment = c(ORCID = "0000-0002-2102-9860")))
+Maintainer: Rebekka Kupffer <kupffer@uni-landau.de>
+Description: This package provides functions to calculate indices to 
+    detect careless responding in multidimensional forced-choice questionnaires.
+Imports: TirtAutomation
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
