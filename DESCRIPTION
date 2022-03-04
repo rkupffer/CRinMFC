@@ -11,12 +11,17 @@ Author: c(person(given = "Rebekka",
            family = "Frick",
            role = c("cre"),
            email = "frick@statistik.tu-dortmund.de",
-           comment = c(ORCID = "0000-0002-2102-9860")))
+           comment = c(ORCID = "0000-0002-2102-9860")),
+          person(given = "Eunike",
+           family = "Wetzel",
+           role = c("cre"),
+           email = "eunike.wetzel@uni-landau.de",
+           comment = c(ORCID = "0000–0002–4224–0366")))
 Maintainer: Rebekka Kupffer <kupffer@uni-landau.de>
 Description: This package provides functions to calculate indices to 
     detect careless responding in multidimensional forced-choice questionnaires.
 Imports: TirtAutomation
-License: What license is it under?
+License: GNU General Public License v3.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
