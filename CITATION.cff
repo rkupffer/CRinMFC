@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 title: >-
-  R package: detecting careless responding in multidimensional forced-choice questionnaires
+  R Package: Detecting Careless Responding in Multidimensional Forced-Choice
+  Questionnaires
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
